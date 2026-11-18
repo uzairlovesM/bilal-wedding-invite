@@ -1,0 +1,17 @@
+{
+  "name": "دعوتِ شادی | بلال حسن",
+  "short_name": "دعوتِ شادی",
+  "description": "بلال حسن فرزند ظفر اقبال کی شادی کی تقریبات کا شاہانہ دعوت نامہ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f5ecdc",
+  "theme_color": "#f5ecdc",
+  "lang": "ur",
+  "dir": "rtl",
+  "icons": [
+    { "src": "assets/mehndi-scene.webp", "sizes": "512x512", "type": "image/webp", "purpose": "any" },
+    { "src": "assets/barat-scene.webp", "sizes": "512x512", "type": "image/webp", "purpose": "maskable" }
+  ]
+}
